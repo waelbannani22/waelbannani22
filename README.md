@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waelbannani22
 - 👀 I’m interested in web and mobile devlopement
-- 🌱 I’m currently learning mern
+- 🌱 I’m currently learning swift
 
 
 <!---
